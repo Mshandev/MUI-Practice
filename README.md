@@ -4,6 +4,7 @@ A single-page social media application built with React and MUI (Material UI) to
 
 ## Demo
 
+- Live Preview: [https://mui-practice-by-shan.vercel.app/](https://mui-practice-by-shan.vercel.app/)
 
 ## Features
 
@@ -18,7 +19,7 @@ A single-page social media application built with React and MUI (Material UI) to
 ![Home](https://i.ibb.co/7VLHbfb/mui-practice-1.png)
 - Home Page
 
-![Dark](https://i.ibb.co/LxbGTHF/mui-practice-2.png)
+![Dark](https://i.ibb.co/JcjT7pn/mui-practice-2.png)
 - Dark Mode
   
 ## Run Locally
